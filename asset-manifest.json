@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pages/static/css/main.5f361e03.chunk.css",
-    "main.js": "/pages/static/js/main.d2e46624.chunk.js",
-    "main.js.map": "/pages/static/js/main.d2e46624.chunk.js.map",
+    "main.css": "/pages/static/css/main.7a60e853.chunk.css",
+    "main.js": "/pages/static/js/main.f4660ace.chunk.js",
+    "main.js.map": "/pages/static/js/main.f4660ace.chunk.js.map",
     "runtime-main.js": "/pages/static/js/runtime-main.ec717240.js",
     "runtime-main.js.map": "/pages/static/js/runtime-main.ec717240.js.map",
-    "static/js/2.a51ad747.chunk.js": "/pages/static/js/2.a51ad747.chunk.js",
-    "static/js/2.a51ad747.chunk.js.map": "/pages/static/js/2.a51ad747.chunk.js.map",
+    "static/js/2.193d982f.chunk.js": "/pages/static/js/2.193d982f.chunk.js",
+    "static/js/2.193d982f.chunk.js.map": "/pages/static/js/2.193d982f.chunk.js.map",
     "index.html": "/pages/index.html",
-    "precache-manifest.55c8a19c2b480bfac77ced4d113c9445.js": "/pages/precache-manifest.55c8a19c2b480bfac77ced4d113c9445.js",
+    "precache-manifest.8410b29fcfe804f58543faf8c864cfbb.js": "/pages/precache-manifest.8410b29fcfe804f58543faf8c864cfbb.js",
     "service-worker.js": "/pages/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/pages/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a51ad747.chunk.js.LICENSE.txt": "/pages/static/js/2.a51ad747.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/pages/static/media/logo.5d5d9eef.svg"
+    "static/css/main.7a60e853.chunk.css.map": "/pages/static/css/main.7a60e853.chunk.css.map",
+    "static/js/2.193d982f.chunk.js.LICENSE.txt": "/pages/static/js/2.193d982f.chunk.js.LICENSE.txt",
+    "static/media/main.jpg": "/pages/static/media/main.3b644ba4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ec717240.js",
-    "static/js/2.a51ad747.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d2e46624.chunk.js"
+    "static/js/2.193d982f.chunk.js",
+    "static/css/main.7a60e853.chunk.css",
+    "static/js/main.f4660ace.chunk.js"
   ]
 }
